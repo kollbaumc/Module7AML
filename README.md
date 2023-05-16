@@ -1,1 +1,2 @@
 # Module7AML
+In this module we created an AWS account.  We used this account to first test out its capabilities in identifying things that were in different pictures.  We chose pictures that we thought the images would be hard to identify and tested AWS's accuracy.  We then moved on to uses its sentiment analysis capabilities.  We selected several articles on the web and did a sentiment analysis on each.  We compared the sentiment analysis to what we thought the actual tone of the article was before doing the analysis.  
